@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fueledsoul
+- 👋 Hi, I’m @DaRshAn
 - 👀 I’m interested in Frontend Development | UI/UX | 
 - 🌱 I’m currently learning Backend Technologies
 - 💞️ I’m looking to collaborate on Web Development
