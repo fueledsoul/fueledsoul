@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaRshAn
+- 👋 Hi, I’m @Darshan Kathari
 - 👀 I’m interested in Frontend Development | UI/UX | 
 - 🌱 I’m currently learning Backend Technologies
 - 💞️ I’m looking to collaborate on Web Development
